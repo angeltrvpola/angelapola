@@ -1,0 +1,5 @@
+print("Selamat datang")
+nama = input("Masukkan nama Anda = ")
+nim = input("Masukkan NIM Anda = ")
+prodi = input("Masukkan prodi Anda = ")
+print("Selamat datang\nSaudara " + nama + "\nAnda terdaftar dengan NIM " + nim + "\nDengan program studi " + prodi)

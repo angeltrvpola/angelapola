@@ -1,0 +1,5 @@
+print ("selamat datang")
+nama = input("siapa nama anda? ")
+nim = input("masukan nim anda: ")
+prodi = input("masukan prodi anda: ")
+print ("nama saya", nama, "dengan nim", nim, "dari prodi", prodi)
